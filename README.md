@@ -1,5 +1,5 @@
 # Proyecto de Base de Datos para Facturación POS 💳💼
-
+,
 Este proyecto consiste en una base de datos MySQL diseñada para un sistema de **Facturación POS** (Point of Sale), donde se gestionan ventas, productos, clientes y la facturación. El objetivo es crear una estructura robusta y eficiente para la gestión de transacciones en un sistema de punto de venta.
 
 ## Características del Proyecto ✨
